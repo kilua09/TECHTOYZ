@@ -1,4 +1,19 @@
-<h1><i>TECHTOYZ</i></h1>
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>TECHTOYZ</title>
+	<!--Vinculando o css externo -->
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		
+	<section>
+		<p class="destaque"> TECHTOYZ</p>
+	
+
 
 <p><strong>Empresa:</strong> TECHTOYZ</p>
 <p><strong>Ramo geral:</strong> Venda de brinquedos eletrôcos</p>
@@ -17,3 +32,14 @@
 <h1><i>SOBRE A EMPRESA</i></h1>
 
 <p><i>A nossa empresa (TECHTOYZ) é direcionada ao ramo tecnológico na venda e revenda desta classe de produtos, nossa empresa é destinada a adolecentes e jovens que procuravam conhecer um novo mundo, um mundo tecnológico.</i></p>
+
+
+</section>
+
+	<footer>
+		<p id="rodape"> Isso permite colocar um rodapé na página.</p>
+	</footer>
+</body>
+</html>
+
+1000132552.jpg
